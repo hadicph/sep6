@@ -9,7 +9,13 @@
       "UnauthRoleName": "amplify-sep6-staging-173525-unauthRole",
       "StackName": "amplify-sep6-staging-173525",
       "StackId": "arn:aws:cloudformation:eu-west-1:343061278635:stack/amplify-sep6-staging-173525/88e85a60-7655-11ed-92a1-0ac12840a687",
-      "AmplifyAppId": "d1ous4gwnt9alc"
+      "AmplifyAppId": "d1ous4gwnt9alc",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-sep6-staging-173525-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "sep6": {}
+      }
     }
   }
 }
